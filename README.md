@@ -55,6 +55,22 @@ I'm a results-driven and curious data professional with a background in mathemat
 
 ---
 
+## ✍️ Random Dev Quotes
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote 1" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=First%2C+solve+the+problem.;Then%2C+write+the+code.&font=Fira%20Code&center=true&width=435&height=45&color=58A6FF&vCenter=true&size=22" alt="Dev Quote 2" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
+
+---
+
 ### 🚀 Fun Fact
 
 > The word “data” is plural. So yes, *data are cool!* 😄
