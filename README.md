@@ -10,7 +10,7 @@ I go by the alias **dystopiareloaded** here.
 
 I'm a results-driven and curious data professional with a background in mathematics and a strong grasp of analytical tools. I enjoy transforming raw data into meaningful insights, automating repetitive tasks, and building dashboards and tools that drive data-informed decision-making.
 
-- 🔍 **Skilled In:** Python,Pandas, NumPy, MySQL, Seaborn, Matplotlib, Data Cleaning, Data Visualization  
+- 🔍 **Skilled In:** Python, Pandas, NumPy, MySQL, Seaborn, Matplotlib, Data Cleaning, Data Visualization  
 - 📊 I love working with data and making it speak through elegant charts, plots, and dashboards.  
 - 💻 Always learning, always building.
 
