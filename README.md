@@ -10,7 +10,7 @@ I go by the alias **dystopiareloaded** here.
 
 I'm a results-driven and curious data professional with a background in mathematics and a strong grasp of analytical tools. I enjoy transforming raw data into meaningful insights, automating repetitive tasks, and building dashboards and tools that drive data-informed decision-making.
 
-- 🔍 **Skilled In:** Python, NumPy, MySQL, Data Cleaning, Data Visualization  
+- 🔍 **Skilled In:** Python, NumPy, MySQL, Seaborn, Matplotlib, Data Cleaning, Data Visualization  
 - 📊 I love working with data and making it speak through elegant charts, plots, and dashboards.  
 - 💻 Always learning, always building.
 
@@ -30,6 +30,8 @@ I'm a results-driven and curious data professional with a background in mathemat
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
 
 ---
@@ -61,5 +63,3 @@ I'm a results-driven and curious data professional with a background in mathemat
 
 🌟 _Thanks for visiting my profile! Feel free to explore my repositories and projects._  
 🔍 _Let’s connect and collaborate on something amazing!_
-
-
